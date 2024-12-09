@@ -159,5 +159,23 @@
         "source": "base_assistant",
         "content": "The background of the hero component is now red. Is there anything else you need assistance with?",
         "metadata": {}
+    },
+    {
+        "id": "4399bbcb-e472-4d27-8b8d-f063dbc386c7",
+        "timestamp": "2024-12-09T11:12:54.695031Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "rearrange the content",
+        "metadata": {
+            "component_id": "Hero1733415038"
+        }
+    },
+    {
+        "id": "1a9914c2-1fbc-4f04-9e3d-47341cac48fe",
+        "timestamp": "2024-12-09T11:13:02.246896Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "How would you like to rearrange the content in the hero component? Could you provide specific details or instructions?",
+        "metadata": {}
     }
 ]
