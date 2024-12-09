@@ -177,5 +177,15 @@
         "source": "base_assistant",
         "content": "How would you like to rearrange the content in the hero component? Could you provide specific details or instructions?",
         "metadata": {}
+    },
+    {
+        "id": "605f6e0e-e22f-414f-9c14-39534faf20bf",
+        "timestamp": "2024-12-09T11:13:19.570638Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "make everythign on right",
+        "metadata": {
+            "component_id": "Hero1733415038"
+        }
     }
 ]
