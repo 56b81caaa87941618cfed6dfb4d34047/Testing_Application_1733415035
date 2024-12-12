@@ -228,5 +228,15 @@
         "source": "base_assistant",
         "content": "All content in the hero component is now aligned to the right. Would you like to make any other adjustments?",
         "metadata": {}
+    },
+    {
+        "id": "2278bcd7-f56a-4f3f-95f7-80a3c7b0ca79",
+        "timestamp": "2024-12-12T21:02:26.012464Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "what does the header say",
+        "metadata": {
+            "component_id": "Header1733415038"
+        }
     }
 ]
