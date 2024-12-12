@@ -228,5 +228,48 @@
         "source": "base_assistant",
         "content": "All content in the hero component is now aligned to the right. Would you like to make any other adjustments?",
         "metadata": {}
+    },
+    {
+        "id": "2278bcd7-f56a-4f3f-95f7-80a3c7b0ca79",
+        "timestamp": "2024-12-12T21:02:26.012464Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "what does the header say",
+        "metadata": {
+            "component_id": "Header1733415038"
+        }
+    },
+    {
+        "id": "78226856-4709-486c-b2f4-31c95d24601e",
+        "timestamp": "2024-12-12T21:02:27.983166Z",
+        "role": "tool_call",
+        "source": "base_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_ysbs5rEr0HZYNcArWZlzZgu9",
+            "function": {
+                "arguments": "{\"component_id\":\"Header1733415038\"}",
+                "name": "ReadComponentCode"
+            },
+            "type": "function"
+        }
+    },
+    {
+        "id": "0924a302-6472-4df4-8e22-dc7cde58f61f",
+        "timestamp": "2024-12-12T21:02:28.067094Z",
+        "role": "tool_result",
+        "source": "ReadComponentCode",
+        "content": "import React from 'react';\n\nconst Header: React.FC = () => {\n  return (\n    <header className=\"bg-red-500 text-white p-4 w-full h-full\"> {/* Full width and height */}\n      <div className=\"container mx-auto flex justify-between items-center h-full\">\n        <div className=\"text-2xl font-bold\">TestPro</div>\n      </div>\n    </header>\n  );\n};\n\nexport { Header as component };",
+        "metadata": {
+            "tool_call_id": "call_ysbs5rEr0HZYNcArWZlzZgu9"
+        }
+    },
+    {
+        "id": "8ca1c72c-303f-4554-a6ee-98fdb51dfd9f",
+        "timestamp": "2024-12-12T21:02:28.840412Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "The header displays \"TestPro\" as the text. Is there anything you'd like to modify or add?",
+        "metadata": {}
     }
 ]
