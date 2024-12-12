@@ -343,5 +343,15 @@
         "source": "base_assistant",
         "content": "The header currently says \"TestPro\". How can I assist you further with it?",
         "metadata": {}
+    },
+    {
+        "id": "ff38bebf-1332-4876-be9a-a0a43396768d",
+        "timestamp": "2024-12-12T21:07:12.926867Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "what does the header say",
+        "metadata": {
+            "component_id": "Header1733415038"
+        }
     }
 ]
