@@ -397,5 +397,15 @@
         "source": "base_assistant",
         "content": "The header contains the text \"TestPro\". What would you like me to do?",
         "metadata": {}
+    },
+    {
+        "id": "0cacc8b7-3913-4f23-b9bd-708959d77506",
+        "timestamp": "2024-12-12T22:20:47.190991Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "what does the header say",
+        "metadata": {
+            "component_id": "Header1733415038"
+        }
     }
 ]
