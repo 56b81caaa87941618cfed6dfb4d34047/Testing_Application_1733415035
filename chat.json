@@ -433,5 +433,15 @@
         "source": "base_assistant",
         "content": "The header displays the text \"TestPro\". How can I assist you with it?",
         "metadata": {}
+    },
+    {
+        "id": "8c39df8e-287c-4de6-9939-855079be1def",
+        "timestamp": "2024-12-12T22:35:50.931691Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "what does the header say",
+        "metadata": {
+            "component_id": "Hero1733415038"
+        }
     }
 ]
