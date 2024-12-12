@@ -361,5 +361,15 @@
         "source": "base_assistant",
         "content": "The header displays the text \"TestPro\". Would you like to change it or make any other adjustments?",
         "metadata": {}
+    },
+    {
+        "id": "d21d836a-61dd-4763-ba56-9b3c2bc6e180",
+        "timestamp": "2024-12-12T21:09:04.121269Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "what does the header say",
+        "metadata": {
+            "component_id": "Hero1733415038"
+        }
     }
 ]
