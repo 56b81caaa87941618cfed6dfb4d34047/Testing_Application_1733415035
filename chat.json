@@ -451,5 +451,15 @@
         "source": "base_assistant",
         "content": "The header displays \"TestPro\". Is there anything you would like to modify or update?",
         "metadata": {}
+    },
+    {
+        "id": "e635a1c2-edc5-4259-a591-b695a04ef0ab",
+        "timestamp": "2024-12-12T22:54:36.599635Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "what does the header say",
+        "metadata": {
+            "component_id": "Header1733415038"
+        }
     }
 ]
