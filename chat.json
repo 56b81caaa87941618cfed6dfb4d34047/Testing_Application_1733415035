@@ -556,5 +556,15 @@
         "source": "base_assistant",
         "content": "The header says \"TestPro\". How would you like to proceed?",
         "metadata": {}
+    },
+    {
+        "id": "757714c9-bfb7-404d-a95a-b580813b631b",
+        "timestamp": "2024-12-14T01:38:54.461515Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "change header to red",
+        "metadata": {
+            "component_id": "Header1733415038"
+        }
     }
 ]
