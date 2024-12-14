@@ -617,5 +617,13 @@
         "metadata": {
             "component_id": "Header1733415038"
         }
+    },
+    {
+        "id": "8808402e-9127-4240-b338-fe67620b93bc",
+        "timestamp": "2024-12-14T01:39:17.100662Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "The header contains the text \"TestPro\". How can I assist you further with it?",
+        "metadata": {}
     }
 ]
