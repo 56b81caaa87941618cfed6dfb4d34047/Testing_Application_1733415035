@@ -643,5 +643,15 @@
         "source": "base_assistant",
         "content": "Hi! How can I assist you with your project today?",
         "metadata": {}
+    },
+    {
+        "id": "f2b6e8e4-e9ee-4b34-a13a-1bf831596d56",
+        "timestamp": "2024-12-14T01:39:34.213171Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "bye",
+        "metadata": {
+            "component_id": "Header1733415038"
+        }
     }
 ]
