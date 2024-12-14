@@ -538,5 +538,15 @@
         "source": "base_assistant",
         "content": "The background of the header is now purple. Would you like to make any other changes?",
         "metadata": {}
+    },
+    {
+        "id": "9795408c-3ce9-4cd7-91be-81d65b3951e2",
+        "timestamp": "2024-12-14T01:05:18.392931Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "what does this header say",
+        "metadata": {
+            "component_id": "Header1733415038"
+        }
     }
 ]
