@@ -661,5 +661,15 @@
         "source": "base_assistant",
         "content": "If you need any assistance in the future, feel free to reach out. Have a great day!",
         "metadata": {}
+    },
+    {
+        "id": "ed681136-85cd-44e4-b9de-cec52b519fdd",
+        "timestamp": "2024-12-14T01:39:41.102512Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "hi",
+        "metadata": {
+            "component_id": "Header1733415038"
+        }
     }
 ]
