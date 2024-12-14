@@ -625,5 +625,23 @@
         "source": "base_assistant",
         "content": "The header contains the text \"TestPro\". How can I assist you further with it?",
         "metadata": {}
+    },
+    {
+        "id": "c2e4e2cb-ce98-4b5e-8612-477a98fa50aa",
+        "timestamp": "2024-12-14T01:39:24.346638Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "hi",
+        "metadata": {
+            "component_id": "Header1733415038"
+        }
+    },
+    {
+        "id": "05f08d79-3192-4ba8-8eae-5e6f1bb63762",
+        "timestamp": "2024-12-14T01:39:25.356783Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Hi! How can I assist you with your project today?",
+        "metadata": {}
     }
 ]
